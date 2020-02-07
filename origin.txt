@@ -1,0 +1,160 @@
+Uri: http://zandvoortstraat33.nl/
+File Name: D:\Desktop\zandvoortstraat33.nl\index.html
+Content Type: text/html
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/bootstrap.css
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://zandvoortstraat33.nl/templates/v1/dynamiccss/?maincolor=003a81
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\dynamiccss\index.css
+Content Type: text/css
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/font-icons.css
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\font-icons.css
+Content Type: text/css
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/animate.css
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\animate.css
+Content Type: text/css
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/magnific-popup.css
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/responsive.css
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\responsive.css
+Content Type: text/css
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/js/jquery.js?v=2
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/js/plugins.js
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://zandvoortstraat33.nl/js/showHide.js
+File Name: D:\Desktop\zandvoortstraat33.nl\js\showHide.js
+Content Type: application/javascript
+
+Uri: http://zandvoortstraat33.nl/js/gen_validatorv4.js
+File Name: D:\Desktop\zandvoortstraat33.nl\js\gen_validatorv4.js
+Content Type: application/javascript
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/js/jquery.gmap.js
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\js\jquery.gmap.js
+Content Type: application/javascript
+
+Uri: http://zandvoortstraat33.nl/upload/logos/084D9614-632D-4B20-961C-BDCAE4E6FEC8.jpg
+File Name: D:\Desktop\zandvoortstraat33.nl\upload\logos\084D9614-632D-4B20-961C-BDCAE4E6FEC8.jpeg
+Content Type: image/jpeg
+
+Uri: http://zandvoortstraat33.nl/upload/icons/00AB4BF2-DA6A-4AD5-ABBC-7BFE9E5CC862.svg
+File Name: D:\Desktop\zandvoortstraat33.nl\upload\icons\00AB4BF2-DA6A-4AD5-ABBC-7BFE9E5CC862.svg
+Content Type: image/svg+xml
+
+Uri: http://zandvoortstraat33.nl/upload/icons/94668C82-795D-4206-AA7C-8C786DE21008.svg
+File Name: D:\Desktop\zandvoortstraat33.nl\upload\icons\94668C82-795D-4206-AA7C-8C786DE21008.svg
+Content Type: image/svg+xml
+
+Uri: http://zandvoortstraat33.nl/upload/icons/713EEA27-0D22-4EC4-9480-9AC1D1944E3C.svg
+File Name: D:\Desktop\zandvoortstraat33.nl\upload\icons\713EEA27-0D22-4EC4-9480-9AC1D1944E3C.svg
+Content Type: image/svg+xml
+
+Uri: http://zandvoortstraat33.nl/upload/agents/square/F36F064F-86C0-4435-A263-909D22D8FD0A.jpg
+File Name: D:\Desktop\zandvoortstraat33.nl\upload\agents\square\F36F064F-86C0-4435-A263-909D22D8FD0A.jpeg
+Content Type: image/jpeg
+
+Uri: http://zandvoortstraat33.nl/upload/customerimage/2B55C28B-2BF2-461A-9709-1BE43FA97C7B.jpg
+File Name: D:\Desktop\zandvoortstraat33.nl\upload\customerimage\2B55C28B-2BF2-461A-9709-1BE43FA97C7B.jpeg
+Content Type: image/jpeg
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/js/functions.js
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\js\functions.js
+Content Type: application/javascript
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/font-icons.eot
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\font-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/font-icons.woff
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\font-icons.woff
+Content Type: font/x-woff
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/font-icons.ttf
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\font-icons.bin
+Content Type: application/octet-stream
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/font-icons.svg
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\font-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/lined-icons.eot
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\lined-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/lined-icons.woff
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\lined-icons.woff
+Content Type: font/x-woff
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/lined-icons.ttf
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\lined-icons.bin
+Content Type: application/octet-stream
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/lined-icons.svg
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\lined-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/Simple-Line-Icons.eot
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/Simple-Line-Icons.eot?
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\Simple-Line-Icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/Simple-Line-Icons.woff
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\Simple-Line-Icons.woff
+Content Type: font/x-woff
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/Simple-Line-Icons.ttf
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\Simple-Line-Icons.bin
+Content Type: application/octet-stream
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/css/fonts/Simple-Line-Icons.svg
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\css\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/images/preloader-dark.gif
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\images\preloader-dark.gif
+Content Type: image/gif
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/images/icons/submenu.png
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\images\icons\submenu.png
+Content Type: image/png
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/images/preloader@2x.gif
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\images\preloader@2x.gif
+Content Type: image/gif
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/images/preloader-dark@2x.gif
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\images\preloader-dark@2x.gif
+Content Type: image/gif
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/images/icons/widget-comment@2x.png
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\images\icons\widget-comment@2x.png
+Content Type: image/png
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/images/icons/widget-link@2x.png
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\images\icons\widget-link@2x.png
+Content Type: image/png
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/images/icons/widget-comment-dark@2x.png
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\images\icons\widget-comment-dark@2x.png
+Content Type: image/png
+
+Uri: http://zandvoortstraat33.nl/templates/v1/HTML/images/icons/widget-link-dark@2x.png
+File Name: D:\Desktop\zandvoortstraat33.nl\templates\v1\HTML\images\icons\widget-link-dark@2x.png
+Content Type: image/png
+
